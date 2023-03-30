@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ded4898bf01a06143ad03a753bd28b02
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 801e2a142913c83419bbd24169946789
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 58e529b5618e6db4aad230aa3a1d1cbc
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Bedroom.unity
+    guid: 5b8ff6251fdcddc479263f127cdb2e66
+  - enabled: 1
+    path: Assets/Scenes/Rooms/HallwayOne.unity
+    guid: 55117f790d091a840a66227353157ed8
+  - enabled: 1
+    path: Assets/Scenes/Rooms/HallwayTwo.unity
+    guid: 5a1adea7557d35849ad5e9b932b2012d
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Storage.unity
+    guid: 14af593b4df385f4c8244fbb8ce84d2c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Kitchen.unity
+    guid: b1e412599b661144bb0b3ccc3dbf26d4
+  - enabled: 1
+    path: Assets/Scenes/Rooms/BathRoom.unity
+    guid: ab2c5fd5bfb836e4b8ebd45a5727daa4
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Living Room.unity
+    guid: fa4ded0b42d1bf542aa95f82715b18d6
+  - enabled: 1
+    path: Assets/Scenes/Testing Dialogue 1.unity
+    guid: 8a8f0e9cd76798642ad74ace1e38835c
+  m_configObjects: {}
